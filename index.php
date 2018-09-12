@@ -3,9 +3,16 @@ function add(){
 	
 	}
 
-function testname(){
+
+function display(){
 echo "Heading tag";
 
 	}
 	
-	testname();
+
+	
+function testname(){
+echo "sdf";
+	}
+
+	display();
